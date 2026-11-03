@@ -4,6 +4,6 @@ Run
 py converter.py          # run the tests (6 milestones)
 py converter.py --menu   # interactive converter; type q to quit
 Functions
-binary_to_decimal / decimal_to_binary
-binary_to_hex / hex_to_binary
-hex_to_decimal / decimal_to_hex
+1. binary_to_decimal / decimal_to_binary
+2. binary_to_hex / hex_to_binary
+3. hex_to_decimal / decimal_to_hex
